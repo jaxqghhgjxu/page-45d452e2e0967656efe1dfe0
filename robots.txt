@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://p-b90a0e8bae.btcxp.cn/sitemap.xml
